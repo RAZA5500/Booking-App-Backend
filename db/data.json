@@ -4,209 +4,224 @@
       "id": "usr_0001",
       "name": "Amara Osei",
       "email": "admin@stayscape.com",
-      "passwordHash": "$2b$10$4iX8PcTiu7Bo4yy/pjFDBOuM4d.mQO8cN2dsp8mmy4PT.Bece92M.",
+      "passwordHash": "$2b$10$sXPp0Dz7Yqk/V9Y5JDLN8.P04sauF.hugS3ToqdDwou68X4zeLN1.",
       "role": "admin",
       "phone": "+1 202 555 0142",
       "hotelId": null,
       "avatarSeed": "amara",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0002",
       "name": "Diego Marchetti",
       "email": "employee@stayscape.com",
-      "passwordHash": "$2b$10$J8T4q20KRF.GNRQA/QDhbuQhXe/dCCMc7NAt0lzuOZaHWrQ4KhMoy",
+      "passwordHash": "$2b$10$rXNKVlAfl9FPp0rBS2/PjOhlZysJ6vguWIPRncaUiMzwVIWyyeJd.",
       "role": "employee",
       "phone": "+39 06 555 0188",
       "hotelId": "ritz-paris",
       "avatarSeed": "diego",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0003",
       "name": "Priya Raman",
       "email": "customer@stayscape.com",
-      "passwordHash": "$2b$10$VARlG5w3rxyPWoVaPF4/UOhO4ip3Khfjt23tIer86mL2P.9JXb2yq",
+      "passwordHash": "$2b$10$HR3I/AgfcVJDdwvYRzCOeuKsCOHaMYXlD2YjKr7.xe3z/PJhiMzau",
       "role": "customer",
       "phone": "+44 20 7946 0321",
       "hotelId": null,
       "avatarSeed": "priya",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
-      "lastLoginAt": "2026-09-13T16:41:01.625Z",
-      "updatedAt": "2026-09-13T16:41:01.625Z"
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
+      "lastLoginAt": null
     },
     {
       "id": "usr_0004",
       "name": "Lukas Weber",
       "email": "lukas.weber@example.com",
-      "passwordHash": "$2b$10$JY8jmyFQPiha5MG.lsKPJOOxFeCXjY/XjS0qd0KeEZ.4iVlvCxKI.",
+      "passwordHash": "$2b$10$aQb.4vB0Zu3FrrbYWdCDieiGHJ7c/QJZR7Ud.dyNXyXU/aA6RBeEi",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "lukas",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0005",
       "name": "Chen Wei",
       "email": "chen.wei@example.com",
-      "passwordHash": "$2b$10$YnRuY7PkNx5ZPQyCEJ6.eO7LdbwZj.8rZDNqGdEaTlVrKYLEosOfa",
+      "passwordHash": "$2b$10$BOA6kf5tLR0zVpqhkeFUvO7BRwnpAiW7TP82.Ss8wC4ADafffGPLm",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "chen",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0006",
       "name": "Sofia Almeida",
       "email": "sofia.almeida@example.com",
-      "passwordHash": "$2b$10$kqOwqvWqectpM//VWCBXROgQHR7SoR1/h2nahAOQli7r./v/ub24S",
+      "passwordHash": "$2b$10$t5AapX/k9uDUq9lviNlNCeMezxdqdANuaOz4wDwuNgnew5d3eBSWy",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "sofia",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0007",
       "name": "Noah Fitzgerald",
       "email": "noah.fitzgerald@example.com",
-      "passwordHash": "$2b$10$d.QemqQ8z0HBp7OK2HrObeTTL3ZArscQxTwY58hZfbHujX6Mghh4i",
+      "passwordHash": "$2b$10$7wrokGJ65rkZ6AiygNoPOOQslOKDjUfT631Czf8yS6cvDK9h83FOi",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "noah",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0008",
       "name": "Yuki Tanaka",
       "email": "yuki.tanaka@example.com",
-      "passwordHash": "$2b$10$8Bn1xEFeHRcv3bQcdQH5veOmmGEHRtLkqMv7kKbl0IHC2aE0xR.NC",
+      "passwordHash": "$2b$10$LzekEGZsuSkg3fu4.uOQsuwovxmW1.X4fQqHLM7up/D2lRF3NB2nu",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "yuki",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0009",
       "name": "Isabella Rossi",
       "email": "isabella.rossi@example.com",
-      "passwordHash": "$2b$10$dNhqiIEWPrOS8ifdCGvC0.ZSCgc6MO3F9DT2hvD/nL9NZf3bQCZ7q",
+      "passwordHash": "$2b$10$wWbglNddk8zZhBBL9xENMuo6bUGfjn4jhEhhyUk99iiTLw2KNvMe6",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "isabella",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0010",
       "name": "Omar Haddad",
       "email": "omar.haddad@example.com",
-      "passwordHash": "$2b$10$.XeBJbmxLNRktoIOmah.k.1DDG2HfFQ6kGnBgWE1pnckPiXZwJGLG",
+      "passwordHash": "$2b$10$UhKLFMQOT7q9UgAk3utkO.UeltzoI4khCo0/v/BHeX7trr/r30rkO",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "omar",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0011",
       "name": "Grace Mwangi",
       "email": "grace.mwangi@example.com",
-      "passwordHash": "$2b$10$ZUVuB6j0bG0u8o7/M31sROrjH2zuE97TUaFv7qHkhUDDJSQ6onc.2",
+      "passwordHash": "$2b$10$nqyOWlkZbu02yIDwqeOYd.1yvO/ZhOX1BSQrMdJAL748yujhqSvB2",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "grace",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0012",
       "name": "Elena Petrova",
       "email": "elena.petrova@example.com",
-      "passwordHash": "$2b$10$KYWlmT6B94IfPAT/rHaaTOv4Asx3kFeABI4.BQ0mAhZGZN7bALPO.",
+      "passwordHash": "$2b$10$vyiCzUkUPoBTTs51uT6k9OvP.kTFM3ausRlKLA8aHEgyE6WRGxpVC",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "elena",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0013",
       "name": "Mateo Ibarra",
       "email": "mateo.ibarra@example.com",
-      "passwordHash": "$2b$10$mq8iA63V51WvkCpwWMZJHethsLm6dqpQcHWbDrLrntNacfAhJE5Me",
+      "passwordHash": "$2b$10$fj900VbyEiWQk5kOLEvAjeCsEMFTfMJY4hmYvri2FQCB2w1cnS6uu",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "mateo",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0014",
       "name": "Hannah Kim",
       "email": "hannah.kim@example.com",
-      "passwordHash": "$2b$10$HmOT4fa/9I5iuEhSa8qEuOAOaXH24UQJ3JHR7oCtKkPmBpk.DjJCO",
+      "passwordHash": "$2b$10$aSDVuYhN6sbpavkRabvODeIEfYLJWer/TFIs/iyKFxBisu9GLELxi",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "hannah",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0015",
       "name": "Tom Okafor",
       "email": "tom.okafor@example.com",
-      "passwordHash": "$2b$10$QAX4hgfR9vFfC.YuhkaYxOoXOioVGugx2ENNqELMeiQWRS8dI8w2i",
+      "passwordHash": "$2b$10$Fs0VdX9O6ysd0RB5tKLfnO9mQlfIpZXi3GYzwF3UxrcoHrIVrfeDu",
       "role": "customer",
       "phone": null,
       "hotelId": null,
       "avatarSeed": "tom",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     },
     {
       "id": "usr_0016",
       "name": "Aiko Sato",
       "email": "aiko.sato@stayscape.com",
-      "passwordHash": "$2b$10$Gq4xveela3RlQbCKTx5zT.XCnxkk77BWgcrx/v0HahXS/uuovsWje",
+      "passwordHash": "$2b$10$.K5xCiaUUdkwN17tkgisTOR7xyfc2aOoC4lBpLdiGx7iVRLhe5yVW",
       "role": "employee",
       "phone": "+81 3 5555 0110",
       "hotelId": "aman-tokyo",
       "avatarSeed": "aiko",
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.636Z",
+      "tokenVersion": 0,
+      "createdAt": "2026-09-16T07:35:37.035Z",
       "lastLoginAt": null
     }
   ],
@@ -294,7 +309,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.632Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "claridges-london",
@@ -379,7 +394,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "hotel-danieli-venice",
@@ -464,7 +479,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "hotel-de-russie-rome",
@@ -549,7 +564,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "belmond-caruso-ravello",
@@ -634,7 +649,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "hotel-sacher-vienna",
@@ -719,7 +734,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "adlon-kempinski-berlin",
@@ -804,7 +819,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "badrutts-palace-st-moritz",
@@ -889,7 +904,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "hotel-arts-barcelona",
@@ -973,7 +988,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "gran-hotel-ingles-madrid",
@@ -1057,7 +1072,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "pestana-palace-lisbon",
@@ -1142,7 +1157,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "grand-hotel-stockholm",
@@ -1227,7 +1242,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "the-shelbourne-dublin",
@@ -1312,7 +1327,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "ciragan-palace-istanbul",
@@ -1397,7 +1412,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.045Z"
     },
     {
       "id": "aman-tokyo",
@@ -1482,7 +1497,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "four-seasons-kyoto",
@@ -1567,7 +1582,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "marina-bay-sands",
@@ -1651,7 +1666,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "raffles-singapore",
@@ -1736,7 +1751,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "peninsula-hong-kong",
@@ -1821,7 +1836,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "mandarin-oriental-bangkok",
@@ -1906,7 +1921,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "oberoi-udaivilas",
@@ -1991,7 +2006,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "taj-mahal-palace-mumbai",
@@ -2076,7 +2091,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "amankila-bali",
@@ -2161,7 +2176,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "ritz-carlton-shanghai",
@@ -2245,7 +2260,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "soneva-fushi-maldives",
@@ -2330,7 +2345,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "burj-al-arab-dubai",
@@ -2415,7 +2430,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "atlantis-the-royal-dubai",
@@ -2500,7 +2515,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "ritz-carlton-doha",
@@ -2585,7 +2600,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "la-mamounia-marrakech",
@@ -2670,7 +2685,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "singita-sasakwa-serengeti",
@@ -2754,7 +2769,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "one-and-only-cape-town",
@@ -2839,7 +2854,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "old-cataract-aswan",
@@ -2924,7 +2939,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "the-plaza-new-york",
@@ -3009,7 +3024,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "beverly-hills-hotel",
@@ -3094,7 +3109,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "fairmont-banff-springs",
@@ -3179,7 +3194,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "rosewood-mayakoba",
@@ -3264,7 +3279,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "fontainebleau-miami",
@@ -3349,7 +3364,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "copacabana-palace-rio",
@@ -3434,7 +3449,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "alvear-palace-buenos-aires",
@@ -3519,7 +3534,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "explora-patagonia",
@@ -3603,7 +3618,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "belmond-monasterio-cusco",
@@ -3687,7 +3702,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "park-hyatt-sydney",
@@ -3772,7 +3787,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "qualia-hamilton-island",
@@ -3857,7 +3872,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     },
     {
       "id": "huka-lodge-taupo",
@@ -3941,7 +3956,7 @@
         }
       ],
       "active": true,
-      "createdAt": "2026-09-12T09:28:43.633Z"
+      "createdAt": "2026-09-16T07:35:36.046Z"
     }
   ],
   "bookings": [
@@ -3953,8 +3968,8 @@
       "roomId": "raffles-singapore-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Raffles Singapore",
-      "checkIn": "2026-06-10",
-      "checkOut": "2026-06-11",
+      "checkIn": "2026-06-14",
+      "checkOut": "2026-06-15",
       "nights": 1,
       "guests": 2,
       "pricing": {
@@ -3979,13 +3994,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T01:28:44.596Z",
+          "at": "2026-09-07T23:35:38.624Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T01:28:44.596Z",
-      "updatedAt": "2026-09-04T01:28:44.596Z"
+      "createdAt": "2026-09-07T23:35:38.624Z",
+      "updatedAt": "2026-09-07T23:35:38.624Z"
     },
     {
       "id": "bkg_0002",
@@ -3995,8 +4010,8 @@
       "roomId": "hotel-danieli-venice-executive",
       "roomName": "Executive Suite",
       "hotelName": "Hotel Danieli",
-      "checkIn": "2026-08-08",
-      "checkOut": "2026-08-14",
+      "checkIn": "2026-08-12",
+      "checkOut": "2026-08-18",
       "nights": 6,
       "guests": 3,
       "pricing": {
@@ -4021,13 +4036,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T02:28:44.596Z",
+          "at": "2026-09-08T00:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T02:28:44.596Z",
-      "updatedAt": "2026-09-04T02:28:44.596Z"
+      "createdAt": "2026-09-08T00:35:38.625Z",
+      "updatedAt": "2026-09-08T00:35:38.625Z"
     },
     {
       "id": "bkg_0003",
@@ -4037,8 +4052,8 @@
       "roomId": "copacabana-palace-rio-signature",
       "roomName": "Signature Suite",
       "hotelName": "Belmond Copacabana Palace",
-      "checkIn": "2026-04-10",
-      "checkOut": "2026-04-11",
+      "checkIn": "2026-04-14",
+      "checkOut": "2026-04-15",
       "nights": 1,
       "guests": 2,
       "pricing": {
@@ -4063,13 +4078,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T03:28:44.596Z",
+          "at": "2026-09-08T01:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T03:28:44.596Z",
-      "updatedAt": "2026-09-04T03:28:44.596Z"
+      "createdAt": "2026-09-08T01:35:38.625Z",
+      "updatedAt": "2026-09-08T01:35:38.625Z"
     },
     {
       "id": "bkg_0004",
@@ -4079,8 +4094,8 @@
       "roomId": "oberoi-udaivilas-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "The Oberoi Udaivilas",
-      "checkIn": "2026-06-15",
-      "checkOut": "2026-06-18",
+      "checkIn": "2026-06-19",
+      "checkOut": "2026-06-22",
       "nights": 3,
       "guests": 1,
       "pricing": {
@@ -4105,13 +4120,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T04:28:44.596Z",
+          "at": "2026-09-08T02:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T04:28:44.596Z",
-      "updatedAt": "2026-09-04T04:28:44.596Z"
+      "createdAt": "2026-09-08T02:35:38.625Z",
+      "updatedAt": "2026-09-08T02:35:38.625Z"
     },
     {
       "id": "bkg_0005",
@@ -4121,8 +4136,8 @@
       "roomId": "marina-bay-sands-signature",
       "roomName": "Signature Suite",
       "hotelName": "Marina Bay Sands",
-      "checkIn": "2026-04-18",
-      "checkOut": "2026-04-24",
+      "checkIn": "2026-04-22",
+      "checkOut": "2026-04-28",
       "nights": 6,
       "guests": 2,
       "pricing": {
@@ -4147,13 +4162,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T05:28:44.596Z",
+          "at": "2026-09-08T03:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T05:28:44.596Z",
-      "updatedAt": "2026-09-04T05:28:44.596Z"
+      "createdAt": "2026-09-08T03:35:38.625Z",
+      "updatedAt": "2026-09-08T03:35:38.625Z"
     },
     {
       "id": "bkg_0006",
@@ -4163,8 +4178,8 @@
       "roomId": "singita-sasakwa-serengeti-executive",
       "roomName": "Executive Suite",
       "hotelName": "Singita Sasakwa Lodge",
-      "checkIn": "2026-05-02",
-      "checkOut": "2026-05-04",
+      "checkIn": "2026-05-06",
+      "checkOut": "2026-05-08",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -4189,13 +4204,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T06:28:44.596Z",
+          "at": "2026-09-08T04:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T06:28:44.596Z",
-      "updatedAt": "2026-09-04T06:28:44.596Z"
+      "createdAt": "2026-09-08T04:35:38.625Z",
+      "updatedAt": "2026-09-08T04:35:38.625Z"
     },
     {
       "id": "bkg_0007",
@@ -4205,8 +4220,8 @@
       "roomId": "one-and-only-cape-town-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "One&Only Cape Town",
-      "checkIn": "2026-06-21",
-      "checkOut": "2026-06-23",
+      "checkIn": "2026-06-25",
+      "checkOut": "2026-06-27",
       "nights": 2,
       "guests": 1,
       "pricing": {
@@ -4231,13 +4246,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T07:28:44.596Z",
+          "at": "2026-09-08T05:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T07:28:44.596Z",
-      "updatedAt": "2026-09-04T07:28:44.596Z"
+      "createdAt": "2026-09-08T05:35:38.625Z",
+      "updatedAt": "2026-09-08T05:35:38.625Z"
     },
     {
       "id": "bkg_0008",
@@ -4247,8 +4262,8 @@
       "roomId": "claridges-london-signature",
       "roomName": "Signature Suite",
       "hotelName": "Claridge's",
-      "checkIn": "2026-07-27",
-      "checkOut": "2026-07-28",
+      "checkIn": "2026-07-31",
+      "checkOut": "2026-08-01",
       "nights": 1,
       "guests": 2,
       "pricing": {
@@ -4273,13 +4288,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T08:28:44.596Z",
+          "at": "2026-09-08T06:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T08:28:44.596Z",
-      "updatedAt": "2026-09-04T08:28:44.596Z"
+      "createdAt": "2026-09-08T06:35:38.625Z",
+      "updatedAt": "2026-09-08T06:35:38.625Z"
     },
     {
       "id": "bkg_0009",
@@ -4289,8 +4304,8 @@
       "roomId": "gran-hotel-ingles-madrid-signature",
       "roomName": "Signature Suite",
       "hotelName": "Gran Hotel Inglés",
-      "checkIn": "2026-07-08",
-      "checkOut": "2026-07-14",
+      "checkIn": "2026-07-12",
+      "checkOut": "2026-07-18",
       "nights": 6,
       "guests": 3,
       "pricing": {
@@ -4315,13 +4330,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T09:28:44.596Z",
+          "at": "2026-09-08T07:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T09:28:44.596Z",
-      "updatedAt": "2026-09-04T09:28:44.596Z"
+      "createdAt": "2026-09-08T07:35:38.625Z",
+      "updatedAt": "2026-09-08T07:35:38.625Z"
     },
     {
       "id": "bkg_0010",
@@ -4331,8 +4346,8 @@
       "roomId": "raffles-singapore-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Raffles Singapore",
-      "checkIn": "2026-05-30",
-      "checkOut": "2026-06-02",
+      "checkIn": "2026-06-03",
+      "checkOut": "2026-06-06",
       "nights": 3,
       "guests": 1,
       "pricing": {
@@ -4357,13 +4372,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T10:28:44.597Z",
+          "at": "2026-09-08T08:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T10:28:44.597Z",
-      "updatedAt": "2026-09-04T10:28:44.597Z"
+      "createdAt": "2026-09-08T08:35:38.625Z",
+      "updatedAt": "2026-09-08T08:35:38.625Z"
     },
     {
       "id": "bkg_0011",
@@ -4373,8 +4388,8 @@
       "roomId": "rosewood-mayakoba-signature",
       "roomName": "Signature Suite",
       "hotelName": "Rosewood Mayakoba",
-      "checkIn": "2026-07-04",
-      "checkOut": "2026-07-10",
+      "checkIn": "2026-07-08",
+      "checkOut": "2026-07-14",
       "nights": 6,
       "guests": 2,
       "pricing": {
@@ -4399,13 +4414,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T11:28:44.597Z",
+          "at": "2026-09-08T09:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T11:28:44.597Z",
-      "updatedAt": "2026-09-04T11:28:44.597Z"
+      "createdAt": "2026-09-08T09:35:38.625Z",
+      "updatedAt": "2026-09-08T09:35:38.625Z"
     },
     {
       "id": "bkg_0012",
@@ -4415,8 +4430,8 @@
       "roomId": "claridges-london-signature",
       "roomName": "Signature Suite",
       "hotelName": "Claridge's",
-      "checkIn": "2026-06-16",
-      "checkOut": "2026-06-19",
+      "checkIn": "2026-06-20",
+      "checkOut": "2026-06-23",
       "nights": 3,
       "guests": 4,
       "pricing": {
@@ -4441,13 +4456,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T12:28:44.597Z",
+          "at": "2026-09-08T10:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T12:28:44.597Z",
-      "updatedAt": "2026-09-04T12:28:44.597Z"
+      "createdAt": "2026-09-08T10:35:38.625Z",
+      "updatedAt": "2026-09-08T10:35:38.625Z"
     },
     {
       "id": "bkg_0013",
@@ -4457,8 +4472,8 @@
       "roomId": "ritz-paris-executive",
       "roomName": "Executive Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-08-30",
-      "checkOut": "2026-09-05",
+      "checkIn": "2026-09-03",
+      "checkOut": "2026-09-09",
       "nights": 6,
       "guests": 1,
       "pricing": {
@@ -4483,13 +4498,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T13:28:44.597Z",
+          "at": "2026-09-08T11:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T13:28:44.597Z",
-      "updatedAt": "2026-09-04T13:28:44.597Z"
+      "createdAt": "2026-09-08T11:35:38.625Z",
+      "updatedAt": "2026-09-08T11:35:38.625Z"
     },
     {
       "id": "bkg_0014",
@@ -4499,8 +4514,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-09-01",
-      "checkOut": "2026-09-05",
+      "checkIn": "2026-09-05",
+      "checkOut": "2026-09-09",
       "nights": 4,
       "guests": 1,
       "pricing": {
@@ -4525,13 +4540,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T14:28:44.597Z",
+          "at": "2026-09-08T12:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T14:28:44.597Z",
-      "updatedAt": "2026-09-04T14:28:44.597Z"
+      "createdAt": "2026-09-08T12:35:38.625Z",
+      "updatedAt": "2026-09-08T12:35:38.625Z"
     },
     {
       "id": "bkg_0015",
@@ -4541,8 +4556,8 @@
       "roomId": "explora-patagonia-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Explora Patagonia",
-      "checkIn": "2026-08-04",
-      "checkOut": "2026-08-06",
+      "checkIn": "2026-08-08",
+      "checkOut": "2026-08-10",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -4567,13 +4582,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T15:28:44.597Z",
+          "at": "2026-09-08T13:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T15:28:44.597Z",
-      "updatedAt": "2026-09-04T15:28:44.597Z"
+      "createdAt": "2026-09-08T13:35:38.625Z",
+      "updatedAt": "2026-09-08T13:35:38.625Z"
     },
     {
       "id": "bkg_0016",
@@ -4583,8 +4598,8 @@
       "roomId": "burj-al-arab-dubai-signature",
       "roomName": "Royal Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-05-04",
-      "checkOut": "2026-05-08",
+      "checkIn": "2026-05-08",
+      "checkOut": "2026-05-12",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -4609,13 +4624,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T16:28:44.597Z",
+          "at": "2026-09-08T14:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T16:28:44.597Z",
-      "updatedAt": "2026-09-04T16:28:44.597Z"
+      "createdAt": "2026-09-08T14:35:38.625Z",
+      "updatedAt": "2026-09-08T14:35:38.625Z"
     },
     {
       "id": "bkg_0017",
@@ -4625,8 +4640,8 @@
       "roomId": "ciragan-palace-istanbul-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Çırağan Palace Kempinski",
-      "checkIn": "2026-06-16",
-      "checkOut": "2026-06-22",
+      "checkIn": "2026-06-20",
+      "checkOut": "2026-06-26",
       "nights": 6,
       "guests": 1,
       "pricing": {
@@ -4651,13 +4666,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T17:28:44.597Z",
+          "at": "2026-09-08T15:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T17:28:44.597Z",
-      "updatedAt": "2026-09-04T17:28:44.597Z"
+      "createdAt": "2026-09-08T15:35:38.625Z",
+      "updatedAt": "2026-09-08T15:35:38.625Z"
     },
     {
       "id": "bkg_0018",
@@ -4667,8 +4682,8 @@
       "roomId": "claridges-london-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Claridge's",
-      "checkIn": "2026-05-03",
-      "checkOut": "2026-05-08",
+      "checkIn": "2026-05-07",
+      "checkOut": "2026-05-12",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -4693,13 +4708,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T18:28:44.597Z",
+          "at": "2026-09-08T16:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T18:28:44.597Z",
-      "updatedAt": "2026-09-04T18:28:44.597Z"
+      "createdAt": "2026-09-08T16:35:38.625Z",
+      "updatedAt": "2026-09-08T16:35:38.625Z"
     },
     {
       "id": "bkg_0019",
@@ -4709,8 +4724,8 @@
       "roomId": "marina-bay-sands-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Marina Bay Sands",
-      "checkIn": "2026-05-06",
-      "checkOut": "2026-05-11",
+      "checkIn": "2026-05-10",
+      "checkOut": "2026-05-15",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -4735,13 +4750,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T19:28:44.597Z",
+          "at": "2026-09-08T17:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T19:28:44.597Z",
-      "updatedAt": "2026-09-04T19:28:44.597Z"
+      "createdAt": "2026-09-08T17:35:38.625Z",
+      "updatedAt": "2026-09-08T17:35:38.625Z"
     },
     {
       "id": "bkg_0020",
@@ -4751,8 +4766,8 @@
       "roomId": "ritz-carlton-doha-executive",
       "roomName": "Executive Suite",
       "hotelName": "The Ritz-Carlton Doha",
-      "checkIn": "2026-08-26",
-      "checkOut": "2026-08-30",
+      "checkIn": "2026-08-30",
+      "checkOut": "2026-09-03",
       "nights": 4,
       "guests": 3,
       "pricing": {
@@ -4777,13 +4792,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T20:28:44.597Z",
+          "at": "2026-09-08T18:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T20:28:44.597Z",
-      "updatedAt": "2026-09-04T20:28:44.597Z"
+      "createdAt": "2026-09-08T18:35:38.625Z",
+      "updatedAt": "2026-09-08T18:35:38.625Z"
     },
     {
       "id": "bkg_0021",
@@ -4793,8 +4808,8 @@
       "roomId": "hotel-de-russie-rome-signature",
       "roomName": "Signature Suite",
       "hotelName": "Hotel de Russie",
-      "checkIn": "2026-07-29",
-      "checkOut": "2026-07-30",
+      "checkIn": "2026-08-02",
+      "checkOut": "2026-08-03",
       "nights": 1,
       "guests": 2,
       "pricing": {
@@ -4819,13 +4834,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T21:28:44.597Z",
+          "at": "2026-09-08T19:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T21:28:44.597Z",
-      "updatedAt": "2026-09-04T21:28:44.597Z"
+      "createdAt": "2026-09-08T19:35:38.625Z",
+      "updatedAt": "2026-09-08T19:35:38.625Z"
     },
     {
       "id": "bkg_0022",
@@ -4835,8 +4850,8 @@
       "roomId": "copacabana-palace-rio-executive",
       "roomName": "Executive Suite",
       "hotelName": "Belmond Copacabana Palace",
-      "checkIn": "2026-08-02",
-      "checkOut": "2026-08-06",
+      "checkIn": "2026-08-06",
+      "checkOut": "2026-08-10",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -4861,13 +4876,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T22:28:44.597Z",
+          "at": "2026-09-08T20:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T22:28:44.597Z",
-      "updatedAt": "2026-09-04T22:28:44.597Z"
+      "createdAt": "2026-09-08T20:35:38.625Z",
+      "updatedAt": "2026-09-08T20:35:38.625Z"
     },
     {
       "id": "bkg_0023",
@@ -4877,8 +4892,8 @@
       "roomId": "pestana-palace-lisbon-signature",
       "roomName": "Signature Suite",
       "hotelName": "Pestana Palace Lisboa",
-      "checkIn": "2026-05-30",
-      "checkOut": "2026-06-04",
+      "checkIn": "2026-06-03",
+      "checkOut": "2026-06-08",
       "nights": 5,
       "guests": 4,
       "pricing": {
@@ -4903,13 +4918,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-04T23:28:44.597Z",
+          "at": "2026-09-08T21:35:38.625Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-04T23:28:44.597Z",
-      "updatedAt": "2026-09-04T23:28:44.597Z"
+      "createdAt": "2026-09-08T21:35:38.625Z",
+      "updatedAt": "2026-09-08T21:35:38.625Z"
     },
     {
       "id": "bkg_0024",
@@ -4919,8 +4934,8 @@
       "roomId": "hotel-danieli-venice-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Hotel Danieli",
-      "checkIn": "2026-09-04",
-      "checkOut": "2026-09-09",
+      "checkIn": "2026-09-08",
+      "checkOut": "2026-09-13",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -4945,13 +4960,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-05T00:28:44.597Z",
+          "at": "2026-09-08T22:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T00:28:44.597Z",
-      "updatedAt": "2026-09-05T00:28:44.597Z"
+      "createdAt": "2026-09-08T22:35:38.626Z",
+      "updatedAt": "2026-09-08T22:35:38.626Z"
     },
     {
       "id": "bkg_0025",
@@ -4961,8 +4976,8 @@
       "roomId": "ciragan-palace-istanbul-signature",
       "roomName": "Signature Suite",
       "hotelName": "Çırağan Palace Kempinski",
-      "checkIn": "2026-05-08",
-      "checkOut": "2026-05-14",
+      "checkIn": "2026-05-12",
+      "checkOut": "2026-05-18",
       "nights": 6,
       "guests": 1,
       "pricing": {
@@ -4987,13 +5002,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-05T01:28:44.597Z",
+          "at": "2026-09-08T23:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T01:28:44.597Z",
-      "updatedAt": "2026-09-05T01:28:44.597Z"
+      "createdAt": "2026-09-08T23:35:38.626Z",
+      "updatedAt": "2026-09-08T23:35:38.626Z"
     },
     {
       "id": "bkg_0026",
@@ -5003,8 +5018,8 @@
       "roomId": "fontainebleau-miami-executive",
       "roomName": "Executive Suite",
       "hotelName": "Fontainebleau Miami Beach",
-      "checkIn": "2026-05-01",
-      "checkOut": "2026-05-06",
+      "checkIn": "2026-05-05",
+      "checkOut": "2026-05-10",
       "nights": 5,
       "guests": 1,
       "pricing": {
@@ -5029,13 +5044,13 @@
       "statusHistory": [
         {
           "status": "checked_out",
-          "at": "2026-09-05T02:28:44.597Z",
+          "at": "2026-09-09T00:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T02:28:44.597Z",
-      "updatedAt": "2026-09-05T02:28:44.597Z"
+      "createdAt": "2026-09-09T00:35:38.626Z",
+      "updatedAt": "2026-09-09T00:35:38.626Z"
     },
     {
       "id": "bkg_0027",
@@ -5045,8 +5060,8 @@
       "roomId": "claridges-london-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Claridge's",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-11",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-15",
       "nights": 1,
       "guests": 2,
       "pricing": {
@@ -5071,13 +5086,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-05T03:28:44.597Z",
+          "at": "2026-09-09T01:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T03:28:44.597Z",
-      "updatedAt": "2026-09-05T03:28:44.597Z"
+      "createdAt": "2026-09-09T01:35:38.626Z",
+      "updatedAt": "2026-09-09T01:35:38.626Z"
     },
     {
       "id": "bkg_0028",
@@ -5087,8 +5102,8 @@
       "roomId": "huka-lodge-taupo-signature",
       "roomName": "Signature Suite",
       "hotelName": "Huka Lodge",
-      "checkIn": "2026-09-11",
-      "checkOut": "2026-09-17",
+      "checkIn": "2026-09-15",
+      "checkOut": "2026-09-21",
       "nights": 6,
       "guests": 3,
       "pricing": {
@@ -5113,13 +5128,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-05T04:28:44.597Z",
+          "at": "2026-09-09T02:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T04:28:44.597Z",
-      "updatedAt": "2026-09-05T04:28:44.597Z"
+      "createdAt": "2026-09-09T02:35:38.626Z",
+      "updatedAt": "2026-09-09T02:35:38.626Z"
     },
     {
       "id": "bkg_0029",
@@ -5129,8 +5144,8 @@
       "roomId": "raffles-singapore-signature",
       "roomName": "Signature Suite",
       "hotelName": "Raffles Singapore",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-12",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-16",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -5155,13 +5170,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-05T05:28:44.597Z",
+          "at": "2026-09-09T03:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T05:28:44.597Z",
-      "updatedAt": "2026-09-05T05:28:44.597Z"
+      "createdAt": "2026-09-09T03:35:38.626Z",
+      "updatedAt": "2026-09-09T03:35:38.626Z"
     },
     {
       "id": "bkg_0030",
@@ -5171,8 +5186,8 @@
       "roomId": "claridges-london-executive",
       "roomName": "Executive Suite",
       "hotelName": "Claridge's",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-16",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-20",
       "nights": 6,
       "guests": 1,
       "pricing": {
@@ -5197,13 +5212,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-05T06:28:44.597Z",
+          "at": "2026-09-09T04:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T06:28:44.597Z",
-      "updatedAt": "2026-09-05T06:28:44.597Z"
+      "createdAt": "2026-09-09T04:35:38.626Z",
+      "updatedAt": "2026-09-09T04:35:38.626Z"
     },
     {
       "id": "bkg_0031",
@@ -5213,8 +5228,8 @@
       "roomId": "rosewood-mayakoba-executive",
       "roomName": "Executive Suite",
       "hotelName": "Rosewood Mayakoba",
-      "checkIn": "2026-10-14",
-      "checkOut": "2026-10-20",
+      "checkIn": "2026-10-18",
+      "checkOut": "2026-10-24",
       "nights": 6,
       "guests": 3,
       "pricing": {
@@ -5239,13 +5254,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T07:28:44.597Z",
+          "at": "2026-09-09T05:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T07:28:44.597Z",
-      "updatedAt": "2026-09-05T07:28:44.597Z"
+      "createdAt": "2026-09-09T05:35:38.626Z",
+      "updatedAt": "2026-09-09T05:35:38.626Z"
     },
     {
       "id": "bkg_0032",
@@ -5255,8 +5270,8 @@
       "roomId": "mandarin-oriental-bangkok-executive",
       "roomName": "Executive Suite",
       "hotelName": "Mandarin Oriental Bangkok",
-      "checkIn": "2026-11-26",
-      "checkOut": "2026-11-28",
+      "checkIn": "2026-11-30",
+      "checkOut": "2026-12-02",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -5281,13 +5296,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T08:28:44.597Z",
+          "at": "2026-09-09T06:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T08:28:44.597Z",
-      "updatedAt": "2026-09-05T08:28:44.597Z"
+      "createdAt": "2026-09-09T06:35:38.626Z",
+      "updatedAt": "2026-09-09T06:35:38.626Z"
     },
     {
       "id": "bkg_0033",
@@ -5297,8 +5312,8 @@
       "roomId": "beverly-hills-hotel-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "The Beverly Hills Hotel",
-      "checkIn": "2026-11-08",
-      "checkOut": "2026-11-13",
+      "checkIn": "2026-11-12",
+      "checkOut": "2026-11-17",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -5323,13 +5338,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T09:28:44.597Z",
+          "at": "2026-09-09T07:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T09:28:44.597Z",
-      "updatedAt": "2026-09-05T09:28:44.597Z"
+      "createdAt": "2026-09-09T07:35:38.626Z",
+      "updatedAt": "2026-09-09T07:35:38.626Z"
     },
     {
       "id": "bkg_0034",
@@ -5339,8 +5354,8 @@
       "roomId": "ritz-paris-signature",
       "roomName": "Prestige Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-10-25",
-      "checkOut": "2026-10-29",
+      "checkIn": "2026-10-29",
+      "checkOut": "2026-11-02",
       "nights": 4,
       "guests": 4,
       "pricing": {
@@ -5365,13 +5380,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T10:28:44.597Z",
+          "at": "2026-09-09T08:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T10:28:44.597Z",
-      "updatedAt": "2026-09-05T10:28:44.597Z"
+      "createdAt": "2026-09-09T08:35:38.626Z",
+      "updatedAt": "2026-09-09T08:35:38.626Z"
     },
     {
       "id": "bkg_0035",
@@ -5381,8 +5396,8 @@
       "roomId": "badrutts-palace-st-moritz-executive",
       "roomName": "Executive Suite",
       "hotelName": "Badrutt's Palace Hotel",
-      "checkIn": "2026-10-01",
-      "checkOut": "2026-10-02",
+      "checkIn": "2026-10-05",
+      "checkOut": "2026-10-06",
       "nights": 1,
       "guests": 3,
       "pricing": {
@@ -5407,13 +5422,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T11:28:44.597Z",
+          "at": "2026-09-09T09:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T11:28:44.597Z",
-      "updatedAt": "2026-09-05T11:28:44.597Z"
+      "createdAt": "2026-09-09T09:35:38.626Z",
+      "updatedAt": "2026-09-09T09:35:38.626Z"
     },
     {
       "id": "bkg_0036",
@@ -5423,8 +5438,8 @@
       "roomId": "pestana-palace-lisbon-executive",
       "roomName": "Executive Suite",
       "hotelName": "Pestana Palace Lisboa",
-      "checkIn": "2026-11-12",
-      "checkOut": "2026-11-15",
+      "checkIn": "2026-11-16",
+      "checkOut": "2026-11-19",
       "nights": 3,
       "guests": 2,
       "pricing": {
@@ -5449,13 +5464,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T12:28:44.597Z",
+          "at": "2026-09-09T10:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T12:28:44.597Z",
-      "updatedAt": "2026-09-05T12:28:44.597Z"
+      "createdAt": "2026-09-09T10:35:38.626Z",
+      "updatedAt": "2026-09-09T10:35:38.626Z"
     },
     {
       "id": "bkg_0037",
@@ -5465,8 +5480,8 @@
       "roomId": "ritz-carlton-doha-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "The Ritz-Carlton Doha",
-      "checkIn": "2026-10-06",
-      "checkOut": "2026-10-11",
+      "checkIn": "2026-10-10",
+      "checkOut": "2026-10-15",
       "nights": 5,
       "guests": 1,
       "pricing": {
@@ -5491,13 +5506,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T13:28:44.597Z",
+          "at": "2026-09-09T11:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T13:28:44.597Z",
-      "updatedAt": "2026-09-05T13:28:44.597Z"
+      "createdAt": "2026-09-09T11:35:38.626Z",
+      "updatedAt": "2026-09-09T11:35:38.626Z"
     },
     {
       "id": "bkg_0038",
@@ -5507,8 +5522,8 @@
       "roomId": "fontainebleau-miami-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Fontainebleau Miami Beach",
-      "checkIn": "2026-12-09",
-      "checkOut": "2026-12-14",
+      "checkIn": "2026-12-13",
+      "checkOut": "2026-12-18",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -5533,13 +5548,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T14:28:44.597Z",
+          "at": "2026-09-09T12:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T14:28:44.597Z",
-      "updatedAt": "2026-09-05T14:28:44.597Z"
+      "createdAt": "2026-09-09T12:35:38.626Z",
+      "updatedAt": "2026-09-09T12:35:38.626Z"
     },
     {
       "id": "bkg_0039",
@@ -5549,8 +5564,8 @@
       "roomId": "ritz-carlton-doha-executive",
       "roomName": "Executive Suite",
       "hotelName": "The Ritz-Carlton Doha",
-      "checkIn": "2026-11-18",
-      "checkOut": "2026-11-23",
+      "checkIn": "2026-11-22",
+      "checkOut": "2026-11-27",
       "nights": 5,
       "guests": 1,
       "pricing": {
@@ -5575,13 +5590,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T15:28:44.597Z",
+          "at": "2026-09-09T13:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T15:28:44.597Z",
-      "updatedAt": "2026-09-05T15:28:44.597Z"
+      "createdAt": "2026-09-09T13:35:38.626Z",
+      "updatedAt": "2026-09-09T13:35:38.626Z"
     },
     {
       "id": "bkg_0040",
@@ -5591,8 +5606,8 @@
       "roomId": "grand-hotel-stockholm-executive",
       "roomName": "Executive Suite",
       "hotelName": "Grand Hôtel Stockholm",
-      "checkIn": "2026-10-08",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-12",
+      "checkOut": "2026-10-14",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -5617,13 +5632,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T16:28:44.597Z",
+          "at": "2026-09-09T14:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T16:28:44.597Z",
-      "updatedAt": "2026-09-05T16:28:44.597Z"
+      "createdAt": "2026-09-09T14:35:38.626Z",
+      "updatedAt": "2026-09-09T14:35:38.626Z"
     },
     {
       "id": "bkg_0041",
@@ -5633,8 +5648,8 @@
       "roomId": "old-cataract-aswan-signature",
       "roomName": "Signature Suite",
       "hotelName": "Sofitel Legend Old Cataract",
-      "checkIn": "2026-10-11",
-      "checkOut": "2026-10-12",
+      "checkIn": "2026-10-15",
+      "checkOut": "2026-10-16",
       "nights": 1,
       "guests": 4,
       "pricing": {
@@ -5659,13 +5674,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T17:28:44.597Z",
+          "at": "2026-09-09T15:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T17:28:44.597Z",
-      "updatedAt": "2026-09-05T17:28:44.597Z"
+      "createdAt": "2026-09-09T15:35:38.626Z",
+      "updatedAt": "2026-09-09T15:35:38.626Z"
     },
     {
       "id": "bkg_0042",
@@ -5675,8 +5690,8 @@
       "roomId": "raffles-singapore-signature",
       "roomName": "Signature Suite",
       "hotelName": "Raffles Singapore",
-      "checkIn": "2026-11-26",
-      "checkOut": "2026-12-01",
+      "checkIn": "2026-11-30",
+      "checkOut": "2026-12-05",
       "nights": 5,
       "guests": 3,
       "pricing": {
@@ -5701,13 +5716,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T18:28:44.597Z",
+          "at": "2026-09-09T16:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T18:28:44.597Z",
-      "updatedAt": "2026-09-05T18:28:44.597Z"
+      "createdAt": "2026-09-09T16:35:38.626Z",
+      "updatedAt": "2026-09-09T16:35:38.626Z"
     },
     {
       "id": "bkg_0043",
@@ -5717,8 +5732,8 @@
       "roomId": "atlantis-the-royal-dubai-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Atlantis The Royal",
-      "checkIn": "2026-09-27",
-      "checkOut": "2026-10-01",
+      "checkIn": "2026-10-01",
+      "checkOut": "2026-10-05",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -5743,13 +5758,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T19:28:44.597Z",
+          "at": "2026-09-09T17:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T19:28:44.597Z",
-      "updatedAt": "2026-09-05T19:28:44.597Z"
+      "createdAt": "2026-09-09T17:35:38.626Z",
+      "updatedAt": "2026-09-09T17:35:38.626Z"
     },
     {
       "id": "bkg_0044",
@@ -5759,8 +5774,8 @@
       "roomId": "alvear-palace-buenos-aires-executive",
       "roomName": "Executive Suite",
       "hotelName": "Alvear Palace Hotel",
-      "checkIn": "2026-12-03",
-      "checkOut": "2026-12-05",
+      "checkIn": "2026-12-07",
+      "checkOut": "2026-12-09",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -5785,13 +5800,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T20:28:44.597Z",
+          "at": "2026-09-09T18:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T20:28:44.597Z",
-      "updatedAt": "2026-09-05T20:28:44.597Z"
+      "createdAt": "2026-09-09T18:35:38.626Z",
+      "updatedAt": "2026-09-09T18:35:38.626Z"
     },
     {
       "id": "bkg_0045",
@@ -5801,8 +5816,8 @@
       "roomId": "taj-mahal-palace-mumbai-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "The Taj Mahal Palace",
-      "checkIn": "2026-11-11",
-      "checkOut": "2026-11-12",
+      "checkIn": "2026-11-15",
+      "checkOut": "2026-11-16",
       "nights": 1,
       "guests": 2,
       "pricing": {
@@ -5827,13 +5842,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T21:28:44.597Z",
+          "at": "2026-09-09T19:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T21:28:44.597Z",
-      "updatedAt": "2026-09-05T21:28:44.597Z"
+      "createdAt": "2026-09-09T19:35:38.626Z",
+      "updatedAt": "2026-09-09T19:35:38.626Z"
     },
     {
       "id": "bkg_0046",
@@ -5843,8 +5858,8 @@
       "roomId": "badrutts-palace-st-moritz-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Badrutt's Palace Hotel",
-      "checkIn": "2026-10-07",
-      "checkOut": "2026-10-13",
+      "checkIn": "2026-10-11",
+      "checkOut": "2026-10-17",
       "nights": 6,
       "guests": 2,
       "pricing": {
@@ -5869,13 +5884,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T22:28:44.597Z",
+          "at": "2026-09-09T20:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T22:28:44.597Z",
-      "updatedAt": "2026-09-05T22:28:44.597Z"
+      "createdAt": "2026-09-09T20:35:38.626Z",
+      "updatedAt": "2026-09-09T20:35:38.626Z"
     },
     {
       "id": "bkg_0047",
@@ -5885,8 +5900,8 @@
       "roomId": "burj-al-arab-dubai-executive",
       "roomName": "Panoramic Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-12-04",
-      "checkOut": "2026-12-09",
+      "checkIn": "2026-12-08",
+      "checkOut": "2026-12-13",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -5911,13 +5926,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-05T23:28:44.597Z",
+          "at": "2026-09-09T21:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-05T23:28:44.597Z",
-      "updatedAt": "2026-09-05T23:28:44.597Z"
+      "createdAt": "2026-09-09T21:35:38.626Z",
+      "updatedAt": "2026-09-09T21:35:38.626Z"
     },
     {
       "id": "bkg_0048",
@@ -5927,8 +5942,8 @@
       "roomId": "atlantis-the-royal-dubai-executive",
       "roomName": "Executive Suite",
       "hotelName": "Atlantis The Royal",
-      "checkIn": "2026-11-05",
-      "checkOut": "2026-11-06",
+      "checkIn": "2026-11-09",
+      "checkOut": "2026-11-10",
       "nights": 1,
       "guests": 1,
       "pricing": {
@@ -5953,13 +5968,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-06T00:28:44.597Z",
+          "at": "2026-09-09T22:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T00:28:44.597Z",
-      "updatedAt": "2026-09-06T00:28:44.597Z"
+      "createdAt": "2026-09-09T22:35:38.626Z",
+      "updatedAt": "2026-09-09T22:35:38.626Z"
     },
     {
       "id": "bkg_0049",
@@ -5969,8 +5984,8 @@
       "roomId": "grand-hotel-stockholm-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Grand Hôtel Stockholm",
-      "checkIn": "2026-10-31",
-      "checkOut": "2026-11-05",
+      "checkIn": "2026-11-04",
+      "checkOut": "2026-11-09",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -5995,13 +6010,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-06T01:28:44.597Z",
+          "at": "2026-09-09T23:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T01:28:44.597Z",
-      "updatedAt": "2026-09-06T01:28:44.597Z"
+      "createdAt": "2026-09-09T23:35:38.626Z",
+      "updatedAt": "2026-09-09T23:35:38.626Z"
     },
     {
       "id": "bkg_0050",
@@ -6011,8 +6026,8 @@
       "roomId": "fairmont-banff-springs-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Fairmont Banff Springs",
-      "checkIn": "2026-12-05",
-      "checkOut": "2026-12-10",
+      "checkIn": "2026-12-09",
+      "checkOut": "2026-12-14",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -6037,13 +6052,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-06T02:28:44.597Z",
+          "at": "2026-09-10T00:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T02:28:44.597Z",
-      "updatedAt": "2026-09-06T02:28:44.597Z"
+      "createdAt": "2026-09-10T00:35:38.626Z",
+      "updatedAt": "2026-09-10T00:35:38.626Z"
     },
     {
       "id": "bkg_0051",
@@ -6053,8 +6068,8 @@
       "roomId": "peninsula-hong-kong-executive",
       "roomName": "Executive Suite",
       "hotelName": "The Peninsula Hong Kong",
-      "checkIn": "2026-10-21",
-      "checkOut": "2026-10-23",
+      "checkIn": "2026-10-25",
+      "checkOut": "2026-10-27",
       "nights": 2,
       "guests": 3,
       "pricing": {
@@ -6079,13 +6094,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-06T03:28:44.597Z",
+          "at": "2026-09-10T01:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T03:28:44.597Z",
-      "updatedAt": "2026-09-06T03:28:44.597Z"
+      "createdAt": "2026-09-10T01:35:38.626Z",
+      "updatedAt": "2026-09-10T01:35:38.626Z"
     },
     {
       "id": "bkg_0052",
@@ -6095,8 +6110,8 @@
       "roomId": "adlon-kempinski-berlin-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Hotel Adlon Kempinski",
-      "checkIn": "2026-11-19",
-      "checkOut": "2026-11-21",
+      "checkIn": "2026-11-23",
+      "checkOut": "2026-11-25",
       "nights": 2,
       "guests": 1,
       "pricing": {
@@ -6121,13 +6136,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-06T04:28:44.597Z",
+          "at": "2026-09-10T02:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T04:28:44.597Z",
-      "updatedAt": "2026-09-06T04:28:44.597Z"
+      "createdAt": "2026-09-10T02:35:38.626Z",
+      "updatedAt": "2026-09-10T02:35:38.626Z"
     },
     {
       "id": "bkg_0053",
@@ -6137,8 +6152,8 @@
       "roomId": "belmond-caruso-ravello-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Belmond Hotel Caruso",
-      "checkIn": "2026-11-27",
-      "checkOut": "2026-12-02",
+      "checkIn": "2026-12-01",
+      "checkOut": "2026-12-06",
       "nights": 5,
       "guests": 1,
       "pricing": {
@@ -6163,13 +6178,13 @@
       "statusHistory": [
         {
           "status": "cancelled",
-          "at": "2026-09-06T05:28:44.597Z",
+          "at": "2026-09-10T03:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T05:28:44.597Z",
-      "updatedAt": "2026-09-06T05:28:44.597Z"
+      "createdAt": "2026-09-10T03:35:38.626Z",
+      "updatedAt": "2026-09-10T03:35:38.626Z"
     },
     {
       "id": "bkg_0054",
@@ -6179,8 +6194,8 @@
       "roomId": "belmond-caruso-ravello-signature",
       "roomName": "Signature Suite",
       "hotelName": "Belmond Hotel Caruso",
-      "checkIn": "2026-12-02",
-      "checkOut": "2026-12-04",
+      "checkIn": "2026-12-06",
+      "checkOut": "2026-12-08",
       "nights": 2,
       "guests": 4,
       "pricing": {
@@ -6205,13 +6220,13 @@
       "statusHistory": [
         {
           "status": "cancelled",
-          "at": "2026-09-06T06:28:44.597Z",
+          "at": "2026-09-10T04:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T06:28:44.597Z",
-      "updatedAt": "2026-09-06T06:28:44.597Z"
+      "createdAt": "2026-09-10T04:35:38.626Z",
+      "updatedAt": "2026-09-10T04:35:38.626Z"
     },
     {
       "id": "bkg_0055",
@@ -6221,8 +6236,8 @@
       "roomId": "adlon-kempinski-berlin-executive",
       "roomName": "Executive Suite",
       "hotelName": "Hotel Adlon Kempinski",
-      "checkIn": "2026-10-08",
-      "checkOut": "2026-10-09",
+      "checkIn": "2026-10-12",
+      "checkOut": "2026-10-13",
       "nights": 1,
       "guests": 1,
       "pricing": {
@@ -6247,13 +6262,13 @@
       "statusHistory": [
         {
           "status": "cancelled",
-          "at": "2026-09-06T07:28:44.597Z",
+          "at": "2026-09-10T05:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T07:28:44.597Z",
-      "updatedAt": "2026-09-06T07:28:44.597Z"
+      "createdAt": "2026-09-10T05:35:38.626Z",
+      "updatedAt": "2026-09-10T05:35:38.626Z"
     },
     {
       "id": "bkg_0056",
@@ -6263,8 +6278,8 @@
       "roomId": "ritz-carlton-doha-signature",
       "roomName": "Signature Suite",
       "hotelName": "The Ritz-Carlton Doha",
-      "checkIn": "2026-11-23",
-      "checkOut": "2026-11-28",
+      "checkIn": "2026-11-27",
+      "checkOut": "2026-12-02",
       "nights": 5,
       "guests": 2,
       "pricing": {
@@ -6289,13 +6304,13 @@
       "statusHistory": [
         {
           "status": "cancelled",
-          "at": "2026-09-06T08:28:44.597Z",
+          "at": "2026-09-10T06:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T08:28:44.597Z",
-      "updatedAt": "2026-09-06T08:28:44.597Z"
+      "createdAt": "2026-09-10T06:35:38.626Z",
+      "updatedAt": "2026-09-10T06:35:38.626Z"
     },
     {
       "id": "bkg_0057",
@@ -6305,8 +6320,8 @@
       "roomId": "gran-hotel-ingles-madrid-signature",
       "roomName": "Signature Suite",
       "hotelName": "Gran Hotel Inglés",
-      "checkIn": "2026-09-26",
-      "checkOut": "2026-09-28",
+      "checkIn": "2026-09-30",
+      "checkOut": "2026-10-02",
       "nights": 2,
       "guests": 1,
       "pricing": {
@@ -6331,13 +6346,13 @@
       "statusHistory": [
         {
           "status": "cancelled",
-          "at": "2026-09-06T09:28:44.597Z",
+          "at": "2026-09-10T07:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-06T09:28:44.597Z",
-      "updatedAt": "2026-09-06T09:28:44.597Z"
+      "createdAt": "2026-09-10T07:35:38.626Z",
+      "updatedAt": "2026-09-10T07:35:38.626Z"
     },
     {
       "id": "bkg_0058",
@@ -6347,8 +6362,8 @@
       "roomId": "ritz-paris-executive",
       "roomName": "Executive Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-12",
-      "checkOut": "2026-09-14",
+      "checkIn": "2026-09-16",
+      "checkOut": "2026-09-18",
       "nights": 2,
       "guests": 1,
       "pricing": {
@@ -6373,13 +6388,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T04:58:44.597Z",
+          "at": "2026-09-15T03:05:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T04:58:44.597Z",
-      "updatedAt": "2026-09-11T04:58:44.597Z"
+      "createdAt": "2026-09-15T03:05:38.626Z",
+      "updatedAt": "2026-09-15T03:05:38.626Z"
     },
     {
       "id": "bkg_0059",
@@ -6389,8 +6404,8 @@
       "roomId": "ritz-paris-signature",
       "roomName": "Prestige Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-12",
-      "checkOut": "2026-09-15",
+      "checkIn": "2026-09-16",
+      "checkOut": "2026-09-19",
       "nights": 3,
       "guests": 3,
       "pricing": {
@@ -6415,13 +6430,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T04:28:44.597Z",
+          "at": "2026-09-15T02:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T04:28:44.597Z",
-      "updatedAt": "2026-09-11T04:28:44.597Z"
+      "createdAt": "2026-09-15T02:35:38.626Z",
+      "updatedAt": "2026-09-15T02:35:38.626Z"
     },
     {
       "id": "bkg_0060",
@@ -6431,8 +6446,8 @@
       "roomId": "ritz-paris-executive",
       "roomName": "Executive Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-12",
-      "checkOut": "2026-09-16",
+      "checkIn": "2026-09-16",
+      "checkOut": "2026-09-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -6457,13 +6472,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T03:58:44.597Z",
+          "at": "2026-09-15T02:05:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T03:58:44.597Z",
-      "updatedAt": "2026-09-11T03:58:44.597Z"
+      "createdAt": "2026-09-15T02:05:38.626Z",
+      "updatedAt": "2026-09-15T02:05:38.626Z"
     },
     {
       "id": "bkg_0061",
@@ -6473,8 +6488,8 @@
       "roomId": "ritz-paris-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-11",
-      "checkOut": "2026-09-15",
+      "checkIn": "2026-09-15",
+      "checkOut": "2026-09-19",
       "nights": 4,
       "guests": 1,
       "pricing": {
@@ -6499,13 +6514,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-11T03:28:44.597Z",
+          "at": "2026-09-15T01:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T03:28:44.597Z",
-      "updatedAt": "2026-09-11T03:28:44.597Z"
+      "createdAt": "2026-09-15T01:35:38.626Z",
+      "updatedAt": "2026-09-15T01:35:38.626Z"
     },
     {
       "id": "bkg_0062",
@@ -6515,8 +6530,8 @@
       "roomId": "ritz-paris-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-14",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-18",
       "nights": 4,
       "guests": 1,
       "pricing": {
@@ -6541,13 +6556,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-11T02:58:44.597Z",
+          "at": "2026-09-15T01:05:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T02:58:44.597Z",
-      "updatedAt": "2026-09-11T02:58:44.597Z"
+      "createdAt": "2026-09-15T01:05:38.626Z",
+      "updatedAt": "2026-09-15T01:05:38.626Z"
     },
     {
       "id": "bkg_0063",
@@ -6557,8 +6572,8 @@
       "roomId": "ritz-paris-signature",
       "roomName": "Prestige Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-14",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-18",
       "nights": 4,
       "guests": 1,
       "pricing": {
@@ -6583,13 +6598,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-11T02:28:44.597Z",
+          "at": "2026-09-15T00:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T02:28:44.597Z",
-      "updatedAt": "2026-09-11T02:28:44.597Z"
+      "createdAt": "2026-09-15T00:35:38.626Z",
+      "updatedAt": "2026-09-15T00:35:38.626Z"
     },
     {
       "id": "bkg_0064",
@@ -6599,8 +6614,8 @@
       "roomId": "ritz-paris-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-12",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-16",
       "nights": 2,
       "guests": 1,
       "pricing": {
@@ -6625,13 +6640,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-11T01:58:44.597Z",
+          "at": "2026-09-15T00:05:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T01:58:44.597Z",
-      "updatedAt": "2026-09-11T01:58:44.597Z"
+      "createdAt": "2026-09-15T00:05:38.626Z",
+      "updatedAt": "2026-09-15T00:05:38.626Z"
     },
     {
       "id": "bkg_0065",
@@ -6641,8 +6656,8 @@
       "roomId": "ritz-paris-executive",
       "roomName": "Executive Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-12",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-16",
       "nights": 2,
       "guests": 1,
       "pricing": {
@@ -6667,13 +6682,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-11T01:28:44.598Z",
+          "at": "2026-09-14T23:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T01:28:44.598Z",
-      "updatedAt": "2026-09-11T01:28:44.598Z"
+      "createdAt": "2026-09-14T23:35:38.626Z",
+      "updatedAt": "2026-09-14T23:35:38.626Z"
     },
     {
       "id": "bkg_0066",
@@ -6683,8 +6698,8 @@
       "roomId": "ritz-paris-signature",
       "roomName": "Prestige Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-16",
-      "checkOut": "2026-09-19",
+      "checkIn": "2026-09-20",
+      "checkOut": "2026-09-23",
       "nights": 3,
       "guests": 1,
       "pricing": {
@@ -6709,13 +6724,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T00:58:44.598Z",
+          "at": "2026-09-14T23:05:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T00:58:44.598Z",
-      "updatedAt": "2026-09-11T00:58:44.598Z"
+      "createdAt": "2026-09-14T23:05:38.626Z",
+      "updatedAt": "2026-09-14T23:05:38.626Z"
     },
     {
       "id": "bkg_0067",
@@ -6725,8 +6740,8 @@
       "roomId": "ritz-paris-executive",
       "roomName": "Executive Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-17",
-      "checkOut": "2026-09-20",
+      "checkIn": "2026-09-21",
+      "checkOut": "2026-09-24",
       "nights": 3,
       "guests": 3,
       "pricing": {
@@ -6751,13 +6766,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T00:28:44.598Z",
+          "at": "2026-09-14T22:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T00:28:44.598Z",
-      "updatedAt": "2026-09-11T00:28:44.598Z"
+      "createdAt": "2026-09-14T22:35:38.626Z",
+      "updatedAt": "2026-09-14T22:35:38.626Z"
     },
     {
       "id": "bkg_0068",
@@ -6767,8 +6782,8 @@
       "roomId": "ritz-paris-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-14",
-      "checkOut": "2026-09-17",
+      "checkIn": "2026-09-18",
+      "checkOut": "2026-09-21",
       "nights": 3,
       "guests": 2,
       "pricing": {
@@ -6793,13 +6808,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T23:58:44.598Z",
+          "at": "2026-09-14T22:05:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T23:58:44.598Z",
-      "updatedAt": "2026-09-10T23:58:44.598Z"
+      "createdAt": "2026-09-14T22:05:38.626Z",
+      "updatedAt": "2026-09-14T22:05:38.626Z"
     },
     {
       "id": "bkg_0069",
@@ -6809,8 +6824,8 @@
       "roomId": "ritz-paris-signature",
       "roomName": "Prestige Suite",
       "hotelName": "The Ritz Paris",
-      "checkIn": "2026-09-16",
-      "checkOut": "2026-09-19",
+      "checkIn": "2026-09-20",
+      "checkOut": "2026-09-23",
       "nights": 3,
       "guests": 3,
       "pricing": {
@@ -6835,13 +6850,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T23:28:44.598Z",
+          "at": "2026-09-14T21:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T23:28:44.598Z",
-      "updatedAt": "2026-09-10T23:28:44.598Z"
+      "createdAt": "2026-09-14T21:35:38.626Z",
+      "updatedAt": "2026-09-14T21:35:38.626Z"
     },
     {
       "id": "bkg_0070",
@@ -6851,8 +6866,8 @@
       "roomId": "aman-tokyo-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-12",
-      "checkOut": "2026-09-16",
+      "checkIn": "2026-09-16",
+      "checkOut": "2026-09-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -6877,13 +6892,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T22:58:44.598Z",
+          "at": "2026-09-14T21:05:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T22:58:44.598Z",
-      "updatedAt": "2026-09-10T22:58:44.598Z"
+      "createdAt": "2026-09-14T21:05:38.626Z",
+      "updatedAt": "2026-09-14T21:05:38.626Z"
     },
     {
       "id": "bkg_0071",
@@ -6893,8 +6908,8 @@
       "roomId": "aman-tokyo-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-12",
-      "checkOut": "2026-09-16",
+      "checkIn": "2026-09-16",
+      "checkOut": "2026-09-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -6919,13 +6934,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T22:28:44.598Z",
+          "at": "2026-09-14T20:35:38.626Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T22:28:44.598Z",
-      "updatedAt": "2026-09-10T22:28:44.598Z"
+      "createdAt": "2026-09-14T20:35:38.626Z",
+      "updatedAt": "2026-09-14T20:35:38.626Z"
     },
     {
       "id": "bkg_0072",
@@ -6935,8 +6950,8 @@
       "roomId": "aman-tokyo-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-12",
-      "checkOut": "2026-09-14",
+      "checkIn": "2026-09-16",
+      "checkOut": "2026-09-18",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -6961,13 +6976,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T21:58:44.598Z",
+          "at": "2026-09-14T20:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T21:58:44.598Z",
-      "updatedAt": "2026-09-10T21:58:44.598Z"
+      "createdAt": "2026-09-14T20:05:38.627Z",
+      "updatedAt": "2026-09-14T20:05:38.627Z"
     },
     {
       "id": "bkg_0073",
@@ -6977,8 +6992,8 @@
       "roomId": "aman-tokyo-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-11",
-      "checkOut": "2026-09-15",
+      "checkIn": "2026-09-15",
+      "checkOut": "2026-09-19",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -7003,13 +7018,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-10T21:28:44.598Z",
+          "at": "2026-09-14T19:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T21:28:44.598Z",
-      "updatedAt": "2026-09-10T21:28:44.598Z"
+      "createdAt": "2026-09-14T19:35:38.627Z",
+      "updatedAt": "2026-09-14T19:35:38.627Z"
     },
     {
       "id": "bkg_0074",
@@ -7019,8 +7034,8 @@
       "roomId": "aman-tokyo-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-11",
-      "checkOut": "2026-09-15",
+      "checkIn": "2026-09-15",
+      "checkOut": "2026-09-19",
       "nights": 4,
       "guests": 1,
       "pricing": {
@@ -7045,13 +7060,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-10T20:58:44.598Z",
+          "at": "2026-09-14T19:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T20:58:44.598Z",
-      "updatedAt": "2026-09-10T20:58:44.598Z"
+      "createdAt": "2026-09-14T19:05:38.627Z",
+      "updatedAt": "2026-09-14T19:05:38.627Z"
     },
     {
       "id": "bkg_0075",
@@ -7061,8 +7076,8 @@
       "roomId": "aman-tokyo-executive",
       "roomName": "Corner Suite",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-14",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-18",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -7087,13 +7102,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-10T20:28:44.598Z",
+          "at": "2026-09-14T18:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T20:28:44.598Z",
-      "updatedAt": "2026-09-10T20:28:44.598Z"
+      "createdAt": "2026-09-14T18:35:38.627Z",
+      "updatedAt": "2026-09-14T18:35:38.627Z"
     },
     {
       "id": "bkg_0076",
@@ -7103,8 +7118,8 @@
       "roomId": "aman-tokyo-signature",
       "roomName": "Aman Suite",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-12",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-16",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -7129,13 +7144,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-10T19:58:44.598Z",
+          "at": "2026-09-14T18:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T19:58:44.598Z",
-      "updatedAt": "2026-09-10T19:58:44.598Z"
+      "createdAt": "2026-09-14T18:05:38.627Z",
+      "updatedAt": "2026-09-14T18:05:38.627Z"
     },
     {
       "id": "bkg_0077",
@@ -7145,8 +7160,8 @@
       "roomId": "aman-tokyo-executive",
       "roomName": "Corner Suite",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-10",
-      "checkOut": "2026-09-12",
+      "checkIn": "2026-09-14",
+      "checkOut": "2026-09-16",
       "nights": 2,
       "guests": 2,
       "pricing": {
@@ -7171,13 +7186,13 @@
       "statusHistory": [
         {
           "status": "checked_in",
-          "at": "2026-09-10T19:28:44.598Z",
+          "at": "2026-09-14T17:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T19:28:44.598Z",
-      "updatedAt": "2026-09-10T19:28:44.598Z"
+      "createdAt": "2026-09-14T17:35:38.627Z",
+      "updatedAt": "2026-09-14T17:35:38.627Z"
     },
     {
       "id": "bkg_0078",
@@ -7187,8 +7202,8 @@
       "roomId": "aman-tokyo-executive",
       "roomName": "Corner Suite",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-17",
-      "checkOut": "2026-09-20",
+      "checkIn": "2026-09-21",
+      "checkOut": "2026-09-24",
       "nights": 3,
       "guests": 3,
       "pricing": {
@@ -7213,13 +7228,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T18:58:44.598Z",
+          "at": "2026-09-14T17:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T18:58:44.598Z",
-      "updatedAt": "2026-09-10T18:58:44.598Z"
+      "createdAt": "2026-09-14T17:05:38.627Z",
+      "updatedAt": "2026-09-14T17:05:38.627Z"
     },
     {
       "id": "bkg_0079",
@@ -7229,8 +7244,8 @@
       "roomId": "aman-tokyo-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-16",
-      "checkOut": "2026-09-19",
+      "checkIn": "2026-09-20",
+      "checkOut": "2026-09-23",
       "nights": 3,
       "guests": 2,
       "pricing": {
@@ -7255,13 +7270,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T18:28:44.598Z",
+          "at": "2026-09-14T16:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T18:28:44.598Z",
-      "updatedAt": "2026-09-10T18:28:44.598Z"
+      "createdAt": "2026-09-14T16:35:38.627Z",
+      "updatedAt": "2026-09-14T16:35:38.627Z"
     },
     {
       "id": "bkg_0080",
@@ -7271,8 +7286,8 @@
       "roomId": "aman-tokyo-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-14",
-      "checkOut": "2026-09-17",
+      "checkIn": "2026-09-18",
+      "checkOut": "2026-09-21",
       "nights": 3,
       "guests": 2,
       "pricing": {
@@ -7297,13 +7312,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T17:58:44.598Z",
+          "at": "2026-09-14T16:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T17:58:44.598Z",
-      "updatedAt": "2026-09-10T17:58:44.598Z"
+      "createdAt": "2026-09-14T16:05:38.627Z",
+      "updatedAt": "2026-09-14T16:05:38.627Z"
     },
     {
       "id": "bkg_0081",
@@ -7313,8 +7328,8 @@
       "roomId": "aman-tokyo-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Aman Tokyo",
-      "checkIn": "2026-09-17",
-      "checkOut": "2026-09-20",
+      "checkIn": "2026-09-21",
+      "checkOut": "2026-09-24",
       "nights": 3,
       "guests": 1,
       "pricing": {
@@ -7339,13 +7354,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-10T17:28:44.598Z",
+          "at": "2026-09-14T15:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-10T17:28:44.598Z",
-      "updatedAt": "2026-09-10T17:28:44.598Z"
+      "createdAt": "2026-09-14T15:35:38.627Z",
+      "updatedAt": "2026-09-14T15:35:38.627Z"
     },
     {
       "id": "bkg_0082",
@@ -7355,8 +7370,8 @@
       "roomId": "soneva-fushi-maldives-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7370,7 +7385,7 @@
         "total": 12746,
         "currency": "USD"
       },
-      "status": "cancelled",
+      "status": "confirmed",
       "guest": {
         "name": "Priya Raman",
         "email": "customer@stayscape.com",
@@ -7381,19 +7396,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T13:13:44.598Z",
+          "at": "2026-09-15T11:20:38.627Z",
           "by": "system",
           "note": "Seeded record"
-        },
-        {
-          "status": "cancelled",
-          "at": "2026-09-12T09:36:41.413Z",
-          "by": "usr_0003",
-          "note": "Cancelled from booking page"
         }
       ],
-      "createdAt": "2026-09-11T13:13:44.598Z",
-      "updatedAt": "2026-09-12T09:36:41.413Z"
+      "createdAt": "2026-09-15T11:20:38.627Z",
+      "updatedAt": "2026-09-15T11:20:38.627Z"
     },
     {
       "id": "bkg_0083",
@@ -7403,8 +7412,8 @@
       "roomId": "soneva-fushi-maldives-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7429,13 +7438,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T12:58:44.598Z",
+          "at": "2026-09-15T11:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T12:58:44.598Z",
-      "updatedAt": "2026-09-11T12:58:44.598Z"
+      "createdAt": "2026-09-15T11:05:38.627Z",
+      "updatedAt": "2026-09-15T11:05:38.627Z"
     },
     {
       "id": "bkg_0084",
@@ -7445,8 +7454,8 @@
       "roomId": "soneva-fushi-maldives-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7471,13 +7480,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T12:43:44.598Z",
+          "at": "2026-09-15T10:50:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T12:43:44.598Z",
-      "updatedAt": "2026-09-11T12:43:44.598Z"
+      "createdAt": "2026-09-15T10:50:38.627Z",
+      "updatedAt": "2026-09-15T10:50:38.627Z"
     },
     {
       "id": "bkg_0085",
@@ -7487,8 +7496,8 @@
       "roomId": "soneva-fushi-maldives-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7513,13 +7522,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T12:28:44.598Z",
+          "at": "2026-09-15T10:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T12:28:44.598Z",
-      "updatedAt": "2026-09-11T12:28:44.598Z"
+      "createdAt": "2026-09-15T10:35:38.627Z",
+      "updatedAt": "2026-09-15T10:35:38.627Z"
     },
     {
       "id": "bkg_0086",
@@ -7529,8 +7538,8 @@
       "roomId": "soneva-fushi-maldives-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7555,13 +7564,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T12:13:44.598Z",
+          "at": "2026-09-15T10:20:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T12:13:44.598Z",
-      "updatedAt": "2026-09-11T12:13:44.598Z"
+      "createdAt": "2026-09-15T10:20:38.627Z",
+      "updatedAt": "2026-09-15T10:20:38.627Z"
     },
     {
       "id": "bkg_0087",
@@ -7571,8 +7580,8 @@
       "roomId": "soneva-fushi-maldives-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7597,13 +7606,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T11:58:44.598Z",
+          "at": "2026-09-15T10:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T11:58:44.598Z",
-      "updatedAt": "2026-09-11T11:58:44.598Z"
+      "createdAt": "2026-09-15T10:05:38.627Z",
+      "updatedAt": "2026-09-15T10:05:38.627Z"
     },
     {
       "id": "bkg_0088",
@@ -7613,8 +7622,8 @@
       "roomId": "soneva-fushi-maldives-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7639,13 +7648,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T11:43:44.598Z",
+          "at": "2026-09-15T09:50:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T11:43:44.598Z",
-      "updatedAt": "2026-09-11T11:43:44.598Z"
+      "createdAt": "2026-09-15T09:50:38.627Z",
+      "updatedAt": "2026-09-15T09:50:38.627Z"
     },
     {
       "id": "bkg_0089",
@@ -7655,8 +7664,8 @@
       "roomId": "soneva-fushi-maldives-deluxe",
       "roomName": "Deluxe Room",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7681,13 +7690,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T11:28:44.598Z",
+          "at": "2026-09-15T09:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T11:28:44.598Z",
-      "updatedAt": "2026-09-11T11:28:44.598Z"
+      "createdAt": "2026-09-15T09:35:38.627Z",
+      "updatedAt": "2026-09-15T09:35:38.627Z"
     },
     {
       "id": "bkg_0090",
@@ -7697,8 +7706,8 @@
       "roomId": "soneva-fushi-maldives-executive",
       "roomName": "Executive Suite",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7723,13 +7732,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T11:13:44.598Z",
+          "at": "2026-09-15T09:20:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T11:13:44.598Z",
-      "updatedAt": "2026-09-11T11:13:44.598Z"
+      "createdAt": "2026-09-15T09:20:38.627Z",
+      "updatedAt": "2026-09-15T09:20:38.627Z"
     },
     {
       "id": "bkg_0091",
@@ -7739,8 +7748,8 @@
       "roomId": "soneva-fushi-maldives-executive",
       "roomName": "Executive Suite",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7765,13 +7774,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T10:58:44.598Z",
+          "at": "2026-09-15T09:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T10:58:44.598Z",
-      "updatedAt": "2026-09-11T10:58:44.598Z"
+      "createdAt": "2026-09-15T09:05:38.627Z",
+      "updatedAt": "2026-09-15T09:05:38.627Z"
     },
     {
       "id": "bkg_0092",
@@ -7781,8 +7790,8 @@
       "roomId": "soneva-fushi-maldives-executive",
       "roomName": "Executive Suite",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7807,13 +7816,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T10:43:44.598Z",
+          "at": "2026-09-15T08:50:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T10:43:44.598Z",
-      "updatedAt": "2026-09-11T10:43:44.598Z"
+      "createdAt": "2026-09-15T08:50:38.627Z",
+      "updatedAt": "2026-09-15T08:50:38.627Z"
     },
     {
       "id": "bkg_0093",
@@ -7823,8 +7832,8 @@
       "roomId": "soneva-fushi-maldives-executive",
       "roomName": "Executive Suite",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7849,13 +7858,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T10:28:44.598Z",
+          "at": "2026-09-15T08:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T10:28:44.598Z",
-      "updatedAt": "2026-09-11T10:28:44.598Z"
+      "createdAt": "2026-09-15T08:35:38.627Z",
+      "updatedAt": "2026-09-15T08:35:38.627Z"
     },
     {
       "id": "bkg_0094",
@@ -7865,8 +7874,8 @@
       "roomId": "soneva-fushi-maldives-signature",
       "roomName": "Signature Suite",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7891,13 +7900,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T10:13:44.598Z",
+          "at": "2026-09-15T08:20:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T10:13:44.598Z",
-      "updatedAt": "2026-09-11T10:13:44.598Z"
+      "createdAt": "2026-09-15T08:20:38.627Z",
+      "updatedAt": "2026-09-15T08:20:38.627Z"
     },
     {
       "id": "bkg_0095",
@@ -7907,8 +7916,8 @@
       "roomId": "soneva-fushi-maldives-signature",
       "roomName": "Signature Suite",
       "hotelName": "Soneva Fushi",
-      "checkIn": "2026-10-03",
-      "checkOut": "2026-10-10",
+      "checkIn": "2026-10-07",
+      "checkOut": "2026-10-14",
       "nights": 7,
       "guests": 2,
       "pricing": {
@@ -7933,13 +7942,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T09:58:44.598Z",
+          "at": "2026-09-15T08:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T09:58:44.598Z",
-      "updatedAt": "2026-09-11T09:58:44.598Z"
+      "createdAt": "2026-09-15T08:05:38.627Z",
+      "updatedAt": "2026-09-15T08:05:38.627Z"
     },
     {
       "id": "bkg_0096",
@@ -7949,8 +7958,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -7975,13 +7984,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T09:43:44.598Z",
+          "at": "2026-09-15T07:50:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T09:43:44.598Z",
-      "updatedAt": "2026-09-11T09:43:44.598Z"
+      "createdAt": "2026-09-15T07:50:38.627Z",
+      "updatedAt": "2026-09-15T07:50:38.627Z"
     },
     {
       "id": "bkg_0097",
@@ -7991,8 +8000,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8017,13 +8026,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T09:28:44.598Z",
+          "at": "2026-09-15T07:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T09:28:44.598Z",
-      "updatedAt": "2026-09-11T09:28:44.598Z"
+      "createdAt": "2026-09-15T07:35:38.627Z",
+      "updatedAt": "2026-09-15T07:35:38.627Z"
     },
     {
       "id": "bkg_0098",
@@ -8033,8 +8042,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8059,13 +8068,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T09:13:44.598Z",
+          "at": "2026-09-15T07:20:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T09:13:44.598Z",
-      "updatedAt": "2026-09-11T09:13:44.598Z"
+      "createdAt": "2026-09-15T07:20:38.627Z",
+      "updatedAt": "2026-09-15T07:20:38.627Z"
     },
     {
       "id": "bkg_0099",
@@ -8075,8 +8084,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8101,13 +8110,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T08:58:44.598Z",
+          "at": "2026-09-15T07:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T08:58:44.598Z",
-      "updatedAt": "2026-09-11T08:58:44.598Z"
+      "createdAt": "2026-09-15T07:05:38.627Z",
+      "updatedAt": "2026-09-15T07:05:38.627Z"
     },
     {
       "id": "bkg_0100",
@@ -8117,8 +8126,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8143,13 +8152,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T08:43:44.598Z",
+          "at": "2026-09-15T06:50:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T08:43:44.598Z",
-      "updatedAt": "2026-09-11T08:43:44.598Z"
+      "createdAt": "2026-09-15T06:50:38.627Z",
+      "updatedAt": "2026-09-15T06:50:38.627Z"
     },
     {
       "id": "bkg_0101",
@@ -8159,8 +8168,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8185,13 +8194,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T08:28:44.598Z",
+          "at": "2026-09-15T06:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T08:28:44.598Z",
-      "updatedAt": "2026-09-11T08:28:44.598Z"
+      "createdAt": "2026-09-15T06:35:38.627Z",
+      "updatedAt": "2026-09-15T06:35:38.627Z"
     },
     {
       "id": "bkg_0102",
@@ -8201,8 +8210,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8227,13 +8236,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T08:13:44.598Z",
+          "at": "2026-09-15T06:20:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T08:13:44.598Z",
-      "updatedAt": "2026-09-11T08:13:44.598Z"
+      "createdAt": "2026-09-15T06:20:38.627Z",
+      "updatedAt": "2026-09-15T06:20:38.627Z"
     },
     {
       "id": "bkg_0103",
@@ -8243,8 +8252,8 @@
       "roomId": "burj-al-arab-dubai-deluxe",
       "roomName": "Deluxe One-Bedroom Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8269,13 +8278,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T07:58:44.598Z",
+          "at": "2026-09-15T06:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T07:58:44.598Z",
-      "updatedAt": "2026-09-11T07:58:44.598Z"
+      "createdAt": "2026-09-15T06:05:38.627Z",
+      "updatedAt": "2026-09-15T06:05:38.627Z"
     },
     {
       "id": "bkg_0104",
@@ -8285,8 +8294,8 @@
       "roomId": "burj-al-arab-dubai-executive",
       "roomName": "Panoramic Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8311,13 +8320,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T07:43:44.598Z",
+          "at": "2026-09-15T05:50:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T07:43:44.598Z",
-      "updatedAt": "2026-09-11T07:43:44.598Z"
+      "createdAt": "2026-09-15T05:50:38.627Z",
+      "updatedAt": "2026-09-15T05:50:38.627Z"
     },
     {
       "id": "bkg_0105",
@@ -8327,8 +8336,8 @@
       "roomId": "burj-al-arab-dubai-executive",
       "roomName": "Panoramic Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8353,13 +8362,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T07:28:44.598Z",
+          "at": "2026-09-15T05:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T07:28:44.598Z",
-      "updatedAt": "2026-09-11T07:28:44.598Z"
+      "createdAt": "2026-09-15T05:35:38.627Z",
+      "updatedAt": "2026-09-15T05:35:38.627Z"
     },
     {
       "id": "bkg_0106",
@@ -8369,8 +8378,8 @@
       "roomId": "burj-al-arab-dubai-executive",
       "roomName": "Panoramic Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8395,13 +8404,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T07:13:44.598Z",
+          "at": "2026-09-15T05:20:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T07:13:44.598Z",
-      "updatedAt": "2026-09-11T07:13:44.598Z"
+      "createdAt": "2026-09-15T05:20:38.627Z",
+      "updatedAt": "2026-09-15T05:20:38.627Z"
     },
     {
       "id": "bkg_0107",
@@ -8411,8 +8420,8 @@
       "roomId": "burj-al-arab-dubai-executive",
       "roomName": "Panoramic Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8437,13 +8446,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T06:58:44.598Z",
+          "at": "2026-09-15T05:05:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T06:58:44.598Z",
-      "updatedAt": "2026-09-11T06:58:44.598Z"
+      "createdAt": "2026-09-15T05:05:38.627Z",
+      "updatedAt": "2026-09-15T05:05:38.627Z"
     },
     {
       "id": "bkg_0108",
@@ -8453,8 +8462,8 @@
       "roomId": "burj-al-arab-dubai-signature",
       "roomName": "Royal Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8479,13 +8488,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T06:43:44.598Z",
+          "at": "2026-09-15T04:50:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T06:43:44.598Z",
-      "updatedAt": "2026-09-11T06:43:44.598Z"
+      "createdAt": "2026-09-15T04:50:38.627Z",
+      "updatedAt": "2026-09-15T04:50:38.627Z"
     },
     {
       "id": "bkg_0109",
@@ -8495,8 +8504,8 @@
       "roomId": "burj-al-arab-dubai-signature",
       "roomName": "Royal Suite",
       "hotelName": "Burj Al Arab Jumeirah",
-      "checkIn": "2026-10-12",
-      "checkOut": "2026-10-16",
+      "checkIn": "2026-10-16",
+      "checkOut": "2026-10-20",
       "nights": 4,
       "guests": 2,
       "pricing": {
@@ -8521,55 +8530,13 @@
       "statusHistory": [
         {
           "status": "confirmed",
-          "at": "2026-09-11T06:28:44.598Z",
+          "at": "2026-09-15T04:35:38.627Z",
           "by": "system",
           "note": "Seeded record"
         }
       ],
-      "createdAt": "2026-09-11T06:28:44.598Z",
-      "updatedAt": "2026-09-11T06:28:44.598Z"
-    },
-    {
-      "id": "bkg_mu02csd5",
-      "code": "SSS8CGVN",
-      "userId": "usr_0003",
-      "hotelId": "ritz-paris",
-      "hotelName": "The Ritz Paris",
-      "roomId": "ritz-paris-deluxe",
-      "roomName": "Deluxe Room",
-      "checkIn": "2026-09-15",
-      "checkOut": "2026-09-18",
-      "nights": 3,
-      "guests": 2,
-      "pricing": {
-        "nights": 3,
-        "nightlyRate": 1450,
-        "roomTotal": 4350,
-        "discount": 0,
-        "cleaning": 45,
-        "service": 479,
-        "tax": 392,
-        "total": 5266,
-        "currency": "USD"
-      },
-      "status": "confirmed",
-      "guest": {
-        "name": "Priya Raman",
-        "email": "customer@stayscape.com",
-        "phone": "+44 20 7946 0321"
-      },
-      "note": "",
-      "paymentLast4": "4242",
-      "statusHistory": [
-        {
-          "status": "confirmed",
-          "at": "2026-09-13T17:03:56.057Z",
-          "by": "usr_0003",
-          "note": "Booked online"
-        }
-      ],
-      "createdAt": "2026-09-13T17:03:56.057Z",
-      "updatedAt": "2026-09-13T17:03:56.057Z"
+      "createdAt": "2026-09-15T04:35:38.627Z",
+      "updatedAt": "2026-09-15T04:35:38.627Z"
     }
   ],
   "reviews": [
@@ -8582,7 +8549,7 @@
       "rating": 4,
       "title": "Great, with one caveat",
       "comment": "Everything was excellent except the WiFi, which dropped a few times in the evening.",
-      "createdAt": "2026-08-15T00:00:00.000Z"
+      "createdAt": "2026-08-19T00:00:00.000Z"
     },
     {
       "id": "rev_0002",
@@ -8593,7 +8560,7 @@
       "rating": 3,
       "title": "Beautiful, slightly formal",
       "comment": "Stunning building and grounds. The restaurant is a touch stiff for a family trip.",
-      "createdAt": "2026-04-12T00:00:00.000Z"
+      "createdAt": "2026-04-16T00:00:00.000Z"
     },
     {
       "id": "rev_0003",
@@ -8604,7 +8571,7 @@
       "rating": 4,
       "title": "Came back for a third time",
       "comment": "Staff remembered our names from last year. That is why we keep returning.",
-      "createdAt": "2026-06-19T00:00:00.000Z"
+      "createdAt": "2026-06-23T00:00:00.000Z"
     },
     {
       "id": "rev_0004",
@@ -8615,7 +8582,7 @@
       "rating": 5,
       "title": "Came back for a third time",
       "comment": "Staff remembered our names from last year. That is why we keep returning.",
-      "createdAt": "2026-04-25T00:00:00.000Z"
+      "createdAt": "2026-04-29T00:00:00.000Z"
     },
     {
       "id": "rev_0005",
@@ -8626,7 +8593,7 @@
       "rating": 5,
       "title": "Came back for a third time",
       "comment": "Staff remembered our names from last year. That is why we keep returning.",
-      "createdAt": "2026-05-05T00:00:00.000Z"
+      "createdAt": "2026-05-09T00:00:00.000Z"
     },
     {
       "id": "rev_0006",
@@ -8637,7 +8604,7 @@
       "rating": 5,
       "title": "Worth every cent",
       "comment": "The service set a standard I will be measuring other hotels against for years.",
-      "createdAt": "2026-06-24T00:00:00.000Z"
+      "createdAt": "2026-06-28T00:00:00.000Z"
     },
     {
       "id": "rev_0007",
@@ -8648,7 +8615,7 @@
       "rating": 3,
       "title": "Great, with one caveat",
       "comment": "Everything was excellent except the WiFi, which dropped a few times in the evening.",
-      "createdAt": "2026-07-29T00:00:00.000Z"
+      "createdAt": "2026-08-02T00:00:00.000Z"
     },
     {
       "id": "rev_0008",
@@ -8659,7 +8626,7 @@
       "rating": 5,
       "title": "Came back for a third time",
       "comment": "Staff remembered our names from last year. That is why we keep returning.",
-      "createdAt": "2026-06-03T00:00:00.000Z"
+      "createdAt": "2026-06-07T00:00:00.000Z"
     },
     {
       "id": "rev_0009",
@@ -8670,7 +8637,7 @@
       "rating": 4,
       "title": "Beautiful, slightly formal",
       "comment": "Stunning building and grounds. The restaurant is a touch stiff for a family trip.",
-      "createdAt": "2026-06-20T00:00:00.000Z"
+      "createdAt": "2026-06-24T00:00:00.000Z"
     },
     {
       "id": "rev_0010",
@@ -8681,7 +8648,7 @@
       "rating": 5,
       "title": "Faultless stay",
       "comment": "Check-in took two minutes, the room was ready early, and nothing was too much trouble.",
-      "createdAt": "2026-09-06T00:00:00.000Z"
+      "createdAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "id": "rev_0011",
@@ -8692,7 +8659,7 @@
       "rating": 4,
       "title": "Faultless stay",
       "comment": "Check-in took two minutes, the room was ready early, and nothing was too much trouble.",
-      "createdAt": "2026-09-06T00:00:00.000Z"
+      "createdAt": "2026-09-10T00:00:00.000Z"
     },
     {
       "id": "rev_0012",
@@ -8703,7 +8670,7 @@
       "rating": 3,
       "title": "The view alone",
       "comment": "We upgraded on arrival and I would do it again without hesitating. Wake up early for sunrise.",
-      "createdAt": "2026-08-07T00:00:00.000Z"
+      "createdAt": "2026-08-11T00:00:00.000Z"
     },
     {
       "id": "rev_0013",
@@ -8714,7 +8681,7 @@
       "rating": 4,
       "title": "Beautiful, slightly formal",
       "comment": "Stunning building and grounds. The restaurant is a touch stiff for a family trip.",
-      "createdAt": "2026-05-09T00:00:00.000Z"
+      "createdAt": "2026-05-13T00:00:00.000Z"
     },
     {
       "id": "rev_0014",
@@ -8725,7 +8692,7 @@
       "rating": 4,
       "title": "The view alone",
       "comment": "We upgraded on arrival and I would do it again without hesitating. Wake up early for sunrise.",
-      "createdAt": "2026-06-23T00:00:00.000Z"
+      "createdAt": "2026-06-27T00:00:00.000Z"
     },
     {
       "id": "rev_0015",
@@ -8736,7 +8703,7 @@
       "rating": 5,
       "title": "Came back for a third time",
       "comment": "Staff remembered our names from last year. That is why we keep returning.",
-      "createdAt": "2026-07-31T00:00:00.000Z"
+      "createdAt": "2026-08-04T00:00:00.000Z"
     },
     {
       "id": "rev_0016",
@@ -8747,7 +8714,7 @@
       "rating": 4,
       "title": "Great, with one caveat",
       "comment": "Everything was excellent except the WiFi, which dropped a few times in the evening.",
-      "createdAt": "2026-08-07T00:00:00.000Z"
+      "createdAt": "2026-08-11T00:00:00.000Z"
     },
     {
       "id": "rev_0017",
@@ -8758,7 +8725,7 @@
       "rating": 3,
       "title": "Beautiful, slightly formal",
       "comment": "Stunning building and grounds. The restaurant is a touch stiff for a family trip.",
-      "createdAt": "2026-06-05T00:00:00.000Z"
+      "createdAt": "2026-06-09T00:00:00.000Z"
     },
     {
       "id": "rev_0018",
@@ -8769,7 +8736,7 @@
       "rating": 3,
       "title": "The view alone",
       "comment": "We upgraded on arrival and I would do it again without hesitating. Wake up early for sunrise.",
-      "createdAt": "2026-09-10T00:00:00.000Z"
+      "createdAt": "2026-09-14T00:00:00.000Z"
     },
     {
       "id": "rev_0019",
@@ -8780,7 +8747,7 @@
       "rating": 3,
       "title": "Came back for a third time",
       "comment": "Staff remembered our names from last year. That is why we keep returning.",
-      "createdAt": "2026-05-15T00:00:00.000Z"
+      "createdAt": "2026-05-19T00:00:00.000Z"
     },
     {
       "id": "rev_0020",
@@ -8791,7 +8758,7 @@
       "rating": 4,
       "title": "Great, with one caveat",
       "comment": "Everything was excellent except the WiFi, which dropped a few times in the evening.",
-      "createdAt": "2026-05-07T00:00:00.000Z"
+      "createdAt": "2026-05-11T00:00:00.000Z"
     }
   ],
   "favorites": [
@@ -8799,73 +8766,73 @@
       "id": "fav_usr_0003_ritz-paris",
       "userId": "usr_0003",
       "hotelId": "ritz-paris",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0003_claridges-london",
       "userId": "usr_0003",
       "hotelId": "claridges-london",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0004_hotel-danieli-venice",
       "userId": "usr_0004",
       "hotelId": "hotel-danieli-venice",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0004_hotel-de-russie-rome",
       "userId": "usr_0004",
       "hotelId": "hotel-de-russie-rome",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0005_belmond-caruso-ravello",
       "userId": "usr_0005",
       "hotelId": "belmond-caruso-ravello",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0005_hotel-sacher-vienna",
       "userId": "usr_0005",
       "hotelId": "hotel-sacher-vienna",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0006_adlon-kempinski-berlin",
       "userId": "usr_0006",
       "hotelId": "adlon-kempinski-berlin",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0006_badrutts-palace-st-moritz",
       "userId": "usr_0006",
       "hotelId": "badrutts-palace-st-moritz",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0007_hotel-arts-barcelona",
       "userId": "usr_0007",
       "hotelId": "hotel-arts-barcelona",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0007_gran-hotel-ingles-madrid",
       "userId": "usr_0007",
       "hotelId": "gran-hotel-ingles-madrid",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0008_pestana-palace-lisbon",
       "userId": "usr_0008",
       "hotelId": "pestana-palace-lisbon",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     },
     {
       "id": "fav_usr_0008_grand-hotel-stockholm",
       "userId": "usr_0008",
       "hotelId": "grand-hotel-stockholm",
-      "createdAt": "2026-09-12T09:28:43.636Z"
+      "createdAt": "2026-09-16T07:35:37.035Z"
     }
   ],
   "audit": []
